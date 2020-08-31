@@ -1,4 +1,5 @@
-# 2020 Democratic Presidential Debates --- NLP Topic Modelling & Sentiment Analysis
+# 2020 Democratic Presidential Debates 
+## NLP Topic Modelling & Sentiment Analysis
 From June 2019 to February 2020, twelve debates took place among more than 20 democratic candidates. 
 
 Today we will explore the debates transcripts to answer some interesting questions: 
